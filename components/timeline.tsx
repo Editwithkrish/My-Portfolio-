@@ -9,7 +9,7 @@ export default function Timeline() {
 
   const timelineItems = [
     {
-      year: "2023 - Present",
+      year: "feb 2025 - Present",
       title: "Assistant Video Editor",
       company: "Rooter.gg",
       description: "Creating engaging gaming content and highlights for the platform.",
@@ -27,7 +27,7 @@ export default function Timeline() {
       description: "Worked with YouTube channels including Cinemastic and Prakhar ke Pravachan.",
     },
     {
-      year: "2021 - Present",
+      year: "2025 - Present",
       title: "Computer Science Engineering",
       company: "MIT ADT University",
       description: "Pursuing a degree in Computer Science Engineering.",
